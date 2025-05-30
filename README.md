@@ -38,11 +38,8 @@ Team Members: Abhijit Karji, Shriram Dixit, Varun Inamdar, Omkar More, Rehan Sha
 
 3️⃣ High Payload Drone for RTN Competition
 
-Hardware Lead in developing an AI-powered drone with object detection & path tracking.
+Ai team member in developing an AI-powered drone with object detection & path tracking.
 
-4️⃣ Encrypted Telemetry System with ATECC608A
-
-Implementing secure telemetry using a cryptographic co-processor.
 
 🎯 Current Goals
 
@@ -50,9 +47,6 @@ Learning Spring Boot for backend development
 
 Mastering Ethical Hacking & Red Teaming
 
-Submitting my profile to Google Developers Code
-
-Organizing AI Olympiad 2025 with sponsorships from tech and food companies
 
 📫 Connect with Me
 

@@ -10,7 +10,7 @@ AI & Machine Learning: ONNX, Deep Learning, Convolutional Neural Networks (CNNs)
 
 Cybersecurity: Ethical Hacking, Red Teaming, AI-based Cybersecurity Learning Platforms
 
-Web Development: React (Frontend), Spring Boot (Backend), Django, PHP, MySQL, Node.js
+Web Development: React (Frontend), Spring Boot (Backend), Djang, MySQL, Node.js
 
 App Development: React Native, Kotlin (using IntelliJ IDEA)
 

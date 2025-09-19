@@ -1,59 +1,59 @@
-Hi, I'm Varun Inamdar! 👋
+# 👋 Hi, I’m Varun Inamdar (vnigoated)
 
-🚀 About Me
+- 🎓 **B.Tech in Artificial Intelligence** | Vishwakarma University, Pune (8.7 CGPA)
+- 🏅 **Double Minor** | Vishwakarma University (9.0 CGPA)
+- 👨‍💻 **AI Engineer Intern** | Drone Projects @ Southern Command, Pune
+- 🔒 **Security Analyst** | Web App Vulnerability Assessment @ Nimka
+- 🔒 **Security Analyst** | Web Security Testing Project @ BEEMAN
 
-I am a passionate B.Tech CSE (AI) student at Vishwakarma University, currently in my second year. I am deeply involved in AI, cybersecurity, ethical hacking, and full-stack development. My experience spans from working on AI-driven cybersecurity learning platforms to handling AI models for drone projects and microcontroller-based encryption systems.
+---
 
-💻 Skills & Technologies
+## 🚀 About Me
 
-AI & Machine Learning: ONNX, Deep Learning, Convolutional Neural Networks (CNNs)
+I’m a passionate AI Engineer and Security Analyst, building robust machine learning and cybersecurity solutions. I love turning cutting-edge research into real products—whether it’s drones with intelligent navigation or NLP pipelines for industry clients. My work spans full-stack development, ML, XAI, and secure application design.
 
-Cybersecurity: Ethical Hacking, Red Teaming, AI-based Cybersecurity Learning Platforms
+- 🔬 **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, Hugging Face, Ollama, Gemini
+- 💻 **Languages:** Python, Java, C, SQL, JavaScript, TypeScript
+- 🌐 **Frameworks/Tools:** React.js, Node.js, FastAPI, Flask, MongoDB, Docker, Vercel
+- 🛡️ **Security:** BurpSuite, OWASP ZAP, secure coding, web app VA
 
-Web Development: React (Frontend), Spring Boot (Backend), Djang, MySQL, Node.js
+---
 
-App Development: React Native, Kotlin (using IntelliJ IDEA)
+## 🛠️ Featured Projects
 
-Hardware & Embedded Systems: Raspberry Pi 3, Microchip ATECC608A for encryption
+### [Tender Summarizer]
+*Python, NLP, Transformers, Flask, JavaScript*  
+Developed an industry-grade NLP pipeline for KRIATEC PVT LTD that automates tender PDF summarization and key entity extraction. Integrated advanced NER and deployed the solution to streamline workflows and save review time.
 
-Networking: Systemd-networkd, Secure Communication for AI Systems
+### [Cybersecurity AI Tutor and Evaluator]
+*React, FastAPI, Python, SQL/NoSQL, Ollama*  
+Created a secure AI tutor that delivers topic explanations, adaptive quizzes, and personalized feedback—plus offline LLM deployment for safe, interactive cybersecurity education.
 
-Event Organization & Sponsorship: Sponsorship Head at Visionary Club, Organizer of Hackathon 2025 & AI Olympiad
+### [CNN-Based Diabetic Retinopathy Detection with LLM & XAI](https://github.com/vnigoated/db_ratina)
+*PyTorch, Grad-CAM, Hugging Face, OpenCV, Flask*  
+Built a CNN model for diabetic retinopathy, integrated explainable AI (Grad-CAM), and used LLMs for clinician-friendly diagnosis explanations. Brought together vision, XAI, and natural language outputs.
 
-🔥 Projects
+---
 
-1️⃣ AI & Cybersecurity Learning Platform
+## 🏆 Achievements
 
-Provides a roadmap for learning cybersecurity from beginner to expert levels.
+- 🏅 IBM Business Intelligence Foundations Specialization (Coursera)
+- 🏅 Google Data Analytics Certificate
+- 🥇 2× Hackathon Winner (WILO Innovation Hackathons)
 
-Uses AI for adaptive learning & user categorization.
+---
 
-Features mock tests, video labs, progress tracking.
+## 🌱 Let’s Connect!
 
-2️⃣ Smart Guard with Integrated CCTV
-
-A security system integrating AI-based surveillance.
-
-Team Members: Abhijit Karji, Shriram Dixit, Varun Inamdar, Omkar More, Rehan Shaikh.
-
-3️⃣ High Payload Drone for RTN Competition
-
-Ai team member in developing an AI-powered drone with object detection & path tracking.
-
-
-🎯 Current Goals
-
-Learning Spring Boot for backend development
-
-Mastering Ethical Hacking & Red Teaming
-
-
-📫 Connect with Me
-
-LinkedIn: www.linkedin.com/in/varun-inamdar-53baa1287
+- 📫 Email: [vninamdar03@gmail.com](mailto:vninamdar03@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Varun](https://linkedin.com/in/Varun)
+- 🖥️ GitHub: [github.com/varun](https://github.com/varun)
 
 
+---
 
-Email: vninamdar03@gmail.com
+> “Always pushing the boundaries of AI, security, and innovation.”  
 
-Let's build something amazing together! 🚀
+<!--
+**vnigoated/vnigoated** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
+-->

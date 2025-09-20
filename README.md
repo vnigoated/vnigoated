@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Varun Inamdar (vnigoated)
 
-- 🎓 **B.Tech in Artificial Intelligence** | Vishwakarma University, Pune (8.7 CGPA)
-- 🏅 **Double Minor** | Vishwakarma University (9.0 CGPA)
+- 🎓 **B.Tech in Artificial Intelligence** | Vishwakarma University, Pune
+- 🏅 **Double Minor** | Vishwakarma University 
 - 👨‍💻 **AI Engineer Intern** | Drone Projects @ Southern Command, Pune
 - 🔒 **Security Analyst** | Web App Vulnerability Assessment @ Nimka
 - 🔒 **Security Analyst** | Web Security Testing Project @ BEEMAN
@@ -9,9 +9,6 @@
 ---
 
 ## 🚀 About Me
-
-I’m a passionate AI Engineer and Security Analyst, building robust machine learning and cybersecurity solutions. I love turning cutting-edge research into real products—whether it’s drones with intelligent navigation or NLP pipelines for industry clients. My work spans full-stack development, ML, XAI, and secure application design.
-
 - 🔬 **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, Hugging Face, Ollama, Gemini
 - 💻 **Languages:** Python, Java, C, SQL, JavaScript, TypeScript
 - 🌐 **Frameworks/Tools:** React.js, Node.js, FastAPI, Flask, MongoDB, Docker, Vercel

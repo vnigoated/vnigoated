@@ -18,23 +18,6 @@ I’m a passionate AI Engineer and Security Analyst, building robust machine lea
 - 🛡️ **Security:** BurpSuite, OWASP ZAP, secure coding, web app VA
 
 ---
-
-## 🛠️ Featured Projects
-
-### [Tender Summarizer]
-*Python, NLP, Transformers, Flask, JavaScript*  
-Developed an industry-grade NLP pipeline for KRIATEC PVT LTD that automates tender PDF summarization and key entity extraction. Integrated advanced NER and deployed the solution to streamline workflows and save review time.
-
-### [Cybersecurity AI Tutor and Evaluator]
-*React, FastAPI, Python, SQL/NoSQL, Ollama*  
-Created a secure AI tutor that delivers topic explanations, adaptive quizzes, and personalized feedback—plus offline LLM deployment for safe, interactive cybersecurity education.
-
-### [CNN-Based Diabetic Retinopathy Detection with LLM & XAI](https://github.com/vnigoated/db_ratina)
-*PyTorch, Grad-CAM, Hugging Face, OpenCV, Flask*  
-Built a CNN model for diabetic retinopathy, integrated explainable AI (Grad-CAM), and used LLMs for clinician-friendly diagnosis explanations. Brought together vision, XAI, and natural language outputs.
-
----
-
 ## 🏆 Achievements
 
 - 🏅 IBM Business Intelligence Foundations Specialization (Coursera)
@@ -42,6 +25,7 @@ Built a CNN model for diabetic retinopathy, integrated explainable AI (Grad-CAM)
 - 🥇 2× Hackathon Winner (WILO Innovation Hackathons)
 
 ---
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/vnigoated?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
 
 ## 🌱 Let’s Connect!
 
@@ -49,11 +33,3 @@ Built a CNN model for diabetic retinopathy, integrated explainable AI (Grad-CAM)
 - 💼 LinkedIn: [linkedin.com/in/Varun](https://linkedin.com/in/Varun)
 - 🖥️ GitHub: [github.com/varun](https://github.com/varun)
 
-
----
-
-> “Always pushing the boundaries of AI, security, and innovation.”  
-
-<!--
-**vnigoated/vnigoated** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
--->

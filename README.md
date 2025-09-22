@@ -27,6 +27,6 @@
 ## 🌱 Let’s Connect!
 
 - 📫 Email: [vninamdar03@gmail.com](mailto:vninamdar03@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/Varun](https://linkedin.com/in/Varun)
+- 💼 LinkedIn: [linkedin.com/in/Varun]([https://linkedin.com/in/Varun](https://www.linkedin.com/in/varun-inamdar-53baa1287/))
 - 🖥️ GitHub: [github.com/varun](https://github.com/varun)
 

@@ -28,5 +28,5 @@
 
 - 📫 Email: [vninamdar03@gmail.com](mailto:vninamdar03@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/Varun]
-- 🖥️ GitHub: [github.com/varun]
+- 🖥️ GitHub: [[github.com/varun](https://github.com/vnigoated)]
 

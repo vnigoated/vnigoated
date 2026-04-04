@@ -1,32 +1,125 @@
 # 👋 Hi, I’m Varun Inamdar (vnigoated)
 
-- 🎓 **B.Tech in Artificial Intelligence** | Vishwakarma University, Pune
-- 🏅 **Double Minor** | Vishwakarma University 
-- 👨‍💻 **AI Engineer Intern** | Drone Projects @ Southern Command, Pune
-- 🔒 **Security Analyst** | Web App Vulnerability Assessment @ Nimka
-- 🔒 **Security Analyst** | Web Security Testing Project @ BEEMAN
+🎓 B.Tech in Artificial Intelligence @ Vishwakarma University, Pune  
+🎯 Honors in Cybersecurity (CGPA: 9.0)  
+💡 AI Engineer | Full-Stack Developer | Security Analyst  
 
 ---
 
 ## 🚀 About Me
-- 🔬 **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, Hugging Face, Ollama, Gemini
-- 💻 **Languages:** Python, Java, C, SQL, JavaScript, TypeScript
-- 🌐 **Frameworks/Tools:** React.js, Node.js, FastAPI, Flask, MongoDB, Docker, Vercel
-- 🛡️ **Security:** BurpSuite, OWASP ZAP, secure coding, web app VA
+
+I build **AI-powered systems, scalable backend architectures, and intelligent automation pipelines**.
+
+- 🧠 Working on **RAG, Agentic AI, and LLM Systems**
+- ⚙️ Building **production-grade GenAI + async pipelines**
+- 🔐 Experienced in **Web Security & Vulnerability Assessment**
+- ☁️ Deploying scalable apps using **AWS, Docker, CI/CD**
 
 ---
+
+## 💼 Experience
+
+### 🧑‍💻 Software Developer Intern — BuildUp Mirai Hybrid *(Jan 2026 – Present)*
+- Transformed POCs into a **production-ready GenAI platform**
+- Reduced **prototype-to-release time by 30%**
+- Built **Redis-based rate limiting system**
+- Developed **GitHub Actions CI/CD pipeline**
+- Reduced API failures by **40%**
+
+---
+
+### 🧑‍💻 Software Developer Intern — Bootcoding *(Oct 2025 – Nov 2025)*
+- Built **Resume Analyzer using LLMs (NestJS + PostgreSQL)**
+- Designed **async summarization pipeline (PDF + YouTube)**
+- Used **BullMQ + Redis for parallel processing**
+- Improved processing speed by **30%**
+
+---
+
+### 🤖 AI Engineer Intern — Payload Drone *(Jun 2024 – Dec 2024)*
+- Developed **autonomous drone system** for Southern Command
+- Built **Visual SLAM pipeline (YOLOv5 + MiDaS)**
+- Achieved **92% localization accuracy**
+- Reduced inference latency by **40% using quantization**
+
+---
+
+## 🧠 Projects
+
+### 🥗 AI Diet Plan RAG Agent
+**Tech:** Watsonx AI, Granite, FAISS, LangFlow  
+- Built **nutrition recommendation system** using RAG
+- Semantic search across **10K+ records**
+- Personalized AI-driven meal planning
+
+---
+
+### 🏭 Skoda AI Energy Management System
+**Tech:** FastAPI, Next.js, PyTorch  
+- Built **predictive energy optimization system**
+- Achieved **87% forecasting accuracy**
+- Reduced energy waste by **18%**
+- Implemented **failure detection (91% precision)**
+
+---
+
+### 🎓 GradeU — AI Learning Platform
+**Tech:** FastAPI, Next.js, Supabase, AWS, Docker  
+🔗 https://www.gradeu.in  
+
+- Built **agentic AI-based adaptive learning platform**
+- Served **200+ users with personalized learning**
+- Reduced drop-off rate by **35%**
+- Implemented **RAG-based “Chat with Course”**
+- Designed **async pipeline using BullMQ + Redis**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Python • JavaScript • TypeScript • Java • SQL  
+
+### ⚙️ Frameworks & Tools
+React • Next.js • Node.js • FastAPI • Flask • Docker • Vercel  
+
+### 🧠 AI/ML
+PyTorch • Transformers • OpenCV • Scikit-learn • Hugging Face  
+LangChain • LangGraph • LlamaIndex • FAISS  
+
+### 🗄️ Databases
+PostgreSQL • MongoDB • Redis • Pinecone  
+
+### 🔐 Cybersecurity
+BurpSuite • OWASP ZAP • VAPT • Secure Coding  
+
+---
+
 ## 🏆 Achievements
 
-- 🏅 IBM Business Intelligence Foundations Specialization (Coursera)
-- 🏅 Google Data Analytics Certificate
-- 🥇 2× Hackathon Winner (WILO Innovation Hackathons)
+- 🥇 1st Place — IBM Hackathon (Watsonx AI Solution)
+- 🥇 1st Place — Codeathon ML Hackathon 2025
+- 🏆 VOIS Marathon 2026 Winner (650+ teams)
+- 📄 Published Research Paper (Springer Nature)
+- 🛕 Built AI crowd system handling **200,000+ people**
 
 ---
+
+## 📊 GitHub Activity
+
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/vnigoated?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
 
-## 🌱 Let’s Connect!
+---
 
-- 📫 Email: [vninamdar03@gmail.com](mailto:vninamdar03@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/Varun]
-- 🖥️ GitHub: [[github.com/varun](https://github.com/vnigoated)]
+## 🌐 Connect With Me
 
+📧 Email: vninamdar03@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/varun-inamdar03/  
+💻 GitHub: https://github.com/vnigoated  
+🌍 Portfolio: https://varun.sparkstudio.co.in  
+
+---
+
+## ⚡ Fun Fact
+
+I love building **real-world AI systems that scale**, not just models that sit in notebooks.

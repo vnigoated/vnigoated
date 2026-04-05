@@ -107,7 +107,7 @@ BurpSuite • OWASP ZAP • VAPT • Secure Coding
 
 ## 📊 GitHub Activity
 
-![Contribution Graph](![Stats Card 4](https://awesome-github-stats.azurewebsites.net/user-stats/vnigoated?theme=github-dark&cardType=github))
+(![Stats Card 4](https://awesome-github-stats.azurewebsites.net/user-stats/vnigoated?theme=github-dark&cardType=github))
 
 ---
 

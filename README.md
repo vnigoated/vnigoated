@@ -1,61 +1,77 @@
-# 👋 Hi, I’m Varun Inamdar (vnigoated)
+# 👋 Hi, I'm Varun Inamdar
 
-🎓 B.Tech AI @ Vishwakarma University, Pune  
-🎯 Honors in Cybersecurity (CGPA: 9.0)  
-💡 AI Engineer | Full-Stack Developer | Security Analyst  
+<p align="center">
+  <b>AI Engineer • Full-Stack Developer • Security Analyst</b><br>
+  🎓 B.Tech AI @ Vishwakarma University, Pune<br>
+  🎯 Honors in Cybersecurity (CGPA: 9.0)
+</p>
+
+<p align="center">
+  <a href="mailto:vninamdar03@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/varun-inamdar03/">LinkedIn</a> •
+  <a href="https://github.com/vnigoated">GitHub</a> •
+  <a href="https://varun.sparkstudio.co.in/">Portfolio</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I build **AI-powered systems, scalable backends, and intelligent automation pipelines**.
-
-- 🧠 RAG, Agentic AI, LLM Systems  
-- ⚙️ GenAI + async architectures  
-- 🔐 Web Security & VAPT  
-- ☁️ AWS, Docker, CI/CD  
+- 🧠 Building **RAG, Agentic AI, and LLM systems**
+- ⚙️ Designing **scalable backend + async pipelines**
+- 🔐 Skilled in **Web Security & VAPT**
+- ☁️ Deploying with **AWS, Docker, CI/CD**
 
 ---
 
 ## 💼 Experience
 
 **BuildUp Mirai Hybrid (2026–Present)**  
-- Production GenAI platform  
-- -30% release time | -40% API failures  
-- Redis + CI/CD pipelines  
+→ Production GenAI platform | -30% release time | -40% API failures  
 
 **Bootcoding (2025)**  
-- Resume Analyzer (LLMs)  
-- Async summarization pipelines  
-- +30% performance  
+→ Resume Analyzer + async pipelines | +30% speed  
 
 **Payload Drone (2024)**  
-- Autonomous drone + SLAM  
-- 92% accuracy | -40% latency  
+→ Autonomous drone + SLAM | 92% accuracy  
 
 ---
 
 ## 🧠 Projects
 
-**🥗 AI Diet Plan Agent** — RAG-based nutrition system  
+**🥗 AI Diet Plan Agent** — RAG-based recommendation system  
 
-**🏭 Skoda EMS** — AI energy optimization  
-- 87% accuracy | -18% energy waste  
-- Failure prediction (91% precision)  
+**🏭 Skoda EMS**  
+→ 87% prediction accuracy | -18% energy waste | 91% fault detection  
 
-**🎓 GradeU** — https://www.gradeu.in  
-- AI learning platform (200+ users)  
-- -35% drop-off | RAG chatbot  
+**🎓 GradeU** — <https://www.gradeu.in>  
+→ AI learning platform (200+ users, -35% drop-off)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JS, TS, Java  
-**Frameworks:** React, Next.js, FastAPI, Node  
-**AI/ML:** PyTorch, Transformers, LangChain  
-**DB:** PostgreSQL, MongoDB, Redis  
-**Security:** BurpSuite, OWASP ZAP  
+**Languages:** Python • JavaScript • TypeScript • Java  
+**Frameworks:** React • Next.js • FastAPI • Node.js  
+**AI/ML:** PyTorch • Transformers • LangChain • FAISS  
+**Databases:** PostgreSQL • MongoDB • Redis  
+**Security:** BurpSuite • OWASP ZAP  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vnigoated?theme=github-dark&cardType=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnigoated&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vnigoated&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
@@ -69,23 +85,6 @@ I build **AI-powered systems, scalable backends, and intelligent automation pipe
 
 ---
 
-## 📊 GitHub Insights
-
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vnigoated?theme=github-dark&cardType=github)
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnigoated&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vnigoated&theme=react-dark&hide_border=false)
-
----
-
-## 🌐 Connect
-
-📧 vninamdar03@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/varun-inamdar03/  
-💻 GitHub: https://github.com/vnigoated  
-🌍 Portfolio: https://varun.sparkstudio.co.in  
-
----
-
-⚡ *I build real-world AI systems that scale.*
+<p align="center">
+  ⚡ <b>I build real-world AI systems that scale.</b>
+</p>

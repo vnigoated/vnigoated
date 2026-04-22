@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Varun Inamdar
+#  Hi, I'm Varun Inamdar
 
 <p align="center">
   <b>AI Engineer • Full-Stack Developer • Security Analyst</b><br>

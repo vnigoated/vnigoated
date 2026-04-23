@@ -20,7 +20,7 @@
 - 🧠 Building **RAG, Agentic AI, and LLM systems**
 - ⚙️ Designing **scalable backend + async pipelines**
 - 🔐 Skilled in **Web Security & VAPT**
-- ☁️ Deploying with **AWS, Docker, CI/CD**
+- ☁️ Deploying with **AWS, Docker, CI/CD , Render , vercel**
 
 ---
 

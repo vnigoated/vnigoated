@@ -26,7 +26,7 @@
 
 ## 💼 Experience
 
-**BuildUp Mirai Hybrid (2026–Present)**  
+**BuildUp Global Hybrid (2026–Present)**  
 → Production GenAI platform | -30% release time | -40% API failures  
 
 **Bootcoding (2025)**  

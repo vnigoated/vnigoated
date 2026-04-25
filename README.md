@@ -1,8 +1,8 @@
-#  Hi, I'm Varun Inamdar
+# Hi, I'm Varun Inamdar
 
 <p align="center">
-  <b>AI Engineer • Full-Stack Developer • Security Analyst</b><br>
-  🎓 B.Tech AI @ Vishwakarma University, Pune<br>
+  <b>AI Engineer • Full-Stack Developer • Cybersecurity Enthusiast</b><br>
+  🎓 B.Tech Artificial Intelligence @ Vishwakarma University, Pune<br>
   🎯 Honors in Cybersecurity (CGPA: 9.0)
 </p>
 
@@ -17,45 +17,105 @@
 
 ## 🚀 About Me
 
-- 🧠 Building **RAG, Agentic AI, and LLM systems**
-- ⚙️ Designing **scalable backend + async pipelines**
-- 🔐 Skilled in **Web Security & VAPT**
-- ☁️ Deploying with **AWS, Docker, CI/CD , Render , vercel**
+- 🧠 Building **RAG systems, Agentic AI workflows, and LLM-powered platforms**
+- ⚙️ Designing **scalable async pipelines (Redis, BullMQ, event-driven systems)**
+- 🔐 Skilled in **Web Security, VAPT, OWASP tools**
+- ☁️ Deploying production systems with **AWS, Docker, CI/CD**
+- 🎯 Focused on **real-world AI systems that scale to users & industry use-cases**
 
 ---
 
 ## 💼 Experience
 
-**BuildUp Global Hybrid (2026–Present)**  
-→ Production GenAI platform | -30% release time | -40% API failures  
+### **Software Developer Intern — BuildUp Mirai (GenAI Platform)**
+📍 Pune | 🗓️ Jan 2026 – Present  
 
-**Bootcoding (2025)**  
-→ Resume Analyzer + async pipelines | +30% speed  
+- Transformed early-stage POCs into a **production-ready GenAI platform**
+- Reduced **prototype → release time by 30%**
+- Built **Redis-based rate limiting system** for API stability  
+- Developed **GitHub Actions CI/CD pipeline**
+  - ⬇️ API failures by **40%**
+  - ⬇️ Manual deployment effort by **60%**
 
-**Payload Drone (2024)**  
-→ Autonomous drone + SLAM | 92% accuracy  
+---
+
+### **Software Developer Intern — Bootcoding**
+📍 Remote | 🗓️ Oct 2025 – Nov 2025  
+
+- Built **Resume Analyzer system** using **NestJS + PostgreSQL + LLMs**
+- Designed **AI parsing & scoring pipeline**
+- Developed **async YouTube + PDF summarization system**
+  - Used **BullMQ + Redis queues**
+  - ⬆️ Processing speed by **30%**
+
+---
+
+### **AI Engineer Intern — Payload Drone (Vishwakarma University)**
+📍 Pune | 🗓️ Jun 2024 – Dec 2024  
+
+- Built **high-payload autonomous drone system** (Defence use-case)
+- Improved **flight stability by 22%**
+- Developed **GPS-independent Visual SLAM pipeline**
+  - YOLOv5 + MiDaS
+  - Achieved **92% localization accuracy**
+- Optimized edge inference
+  - ⬇️ latency by **40% (quantization)**
 
 ---
 
 ## 🧠 Projects
 
-**🥗 AI Diet Plan Agent** — RAG-based recommendation system  
+### 🥗 **AI Diet Plan RAG Agent**
+- Built using **IBM Watsonx + Granite Models + FAISS**
+- RAG system over **10K+ nutrition records**
+- Context-aware **personalized meal planning engine**
 
-**🏭 Skoda EMS**  
-→ 87% prediction accuracy | -18% energy waste | 91% fault detection  
+---
 
-**🎓 GradeU** — <https://www.gradeu.in>  
-→ AI learning platform (200+ users, -35% drop-off)  
+### 🏭 **Skoda AI/ML Energy Management System**
+- Built intelligent **BMS/EMS system for manufacturing**
+- Time-series forecasting → **87% accuracy**
+- Reduced energy waste by **18%**
+- Predictive failure detection:
+  - **91% precision**
+  - **48-hour early alerts**
+  - ⬇️ downtime by **25%**
+
+---
+
+### 🎓 **GradeU — AI Learning Platform**
+🔗 https://www.gradeu.in  
+
+- Built **Agentic AI-based adaptive learning system**
+- Serving **200+ users**
+- ⬇️ Drop-off rate by **35%**
+- Features:
+  - RAG-based **“Chat with Course”**
+  - Async LLM pipelines using **BullMQ + Redis**
+  - Multi-DB architecture (**Supabase + MongoDB**)
+- Deployed on **AWS EC2 with Docker**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • JavaScript • TypeScript • Java  
-**Frameworks:** React • Next.js • FastAPI • Node.js  
-**AI/ML:** PyTorch • Transformers • LangChain • FAISS  
-**Databases:** PostgreSQL • MongoDB • Redis  
-**Security:** BurpSuite • OWASP ZAP  
+**Languages:**  
+Python • JavaScript • TypeScript  
+
+**Frameworks:**  
+React • Next.js • Node.js • FastAPI • Express • Flask  
+
+**AI/ML:**  
+PyTorch • Transformers • LangChain • LangGraph • LlamaIndex • FAISS • OpenCV  
+
+**Databases:**  
+PostgreSQL • MongoDB • Redis • Pinecone  
+
+**DevOps & Tools:**  
+Docker • AWS • GitHub Actions • Vercel • MLflow • n8n • Ollama  
+
+**Cybersecurity:**  
+BurpSuite • OWASP ZAP • VAPT  
 
 ---
 
@@ -77,14 +137,24 @@
 
 ## 🏆 Achievements
 
-- 🥇 IBM Hackathon Winner  
-- 🥇 Codeathon ML Winner  
-- 🏆 VOIS Marathon 2026  
-- 📄 Springer Research Paper  
-- 🛕 AI system for 200K+ people  
+- 🥇 **1st Place — IBM Hackathon**
+  - Built multi-agent AI system using Watsonx  
+  - Presented at **IBM Summit, Delhi**
+- 🏆 **VOIS Marathon 2026**
+- 📄 **Springer Research Publication**
+- 🛕 Built AI crowd system handling **200,000+ people (Navratri, Pune)**
+
+---
+
+## ⚡ What I'm Focused On
+
+- Building **Agentic AI platforms (beyond chatbots)**
+- Scaling **RAG systems to production**
+- Exploring **AI + Cybersecurity intersection**
+- Preparing for **MS in Germany (AI/Data Engineering)**
 
 ---
 
 <p align="center">
-  ⚡ <b>I build real-world AI systems that scale.</b>
+  <b>⚡ I build real-world AI systems that scale to production.</b>
 </p>

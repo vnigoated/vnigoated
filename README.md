@@ -112,7 +112,7 @@ PyTorch • Transformers • LangChain • LangGraph • LlamaIndex • FAISS �
 PostgreSQL • MongoDB • Redis • Pinecone  
 
 **DevOps & Tools:**  
-Docker • AWS • GitHub Actions • Vercel • MLflow • n8n • Ollama  
+Docker • AWS • GitHub Actions • Vercel • MLflow • n8n •  
 
 **Cybersecurity:**  
 BurpSuite • OWASP ZAP • VAPT  

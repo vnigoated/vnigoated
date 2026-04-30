@@ -27,7 +27,7 @@
 
 ## 💼 Experience
 
-### **Software Developer Intern — BuildUp Mirai (GenAI Platform)**
+### **Software Developer Intern — BuildUp Global**
 📍 Pune | 🗓️ Jan 2026 – Present  
 
 - Transformed early-stage POCs into a **production-ready GenAI platform**

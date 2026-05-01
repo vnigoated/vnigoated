@@ -150,8 +150,7 @@ BurpSuite • OWASP ZAP • VAPT
 
 - Building **Agentic AI platforms (beyond chatbots)**
 - Scaling **RAG systems to production**
-- Exploring **AI + Cybersecurity intersection**
-- Preparing for **MS in Germany (AI/Data Engineering)**
+- Exploring **AI + Cybersecurity intersection*
 
 ---
 

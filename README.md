@@ -122,7 +122,7 @@ BurpSuite • OWASP ZAP • VAPT
 ## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnigoated" alt="GitHub Streak"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnigoated&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">

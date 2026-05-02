@@ -122,7 +122,7 @@ BurpSuite • OWASP ZAP • VAPT
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vnigoated?theme=github-dark&cardType=github" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnigoated" alt="GitHub Streak"  />
 </p>
 
 <p align="center">

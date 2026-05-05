@@ -149,7 +149,7 @@ BurpSuite • OWASP ZAP • VAPT
 ## ⚡ What I'm Focused On
 
 - Building **Agentic AI platforms (beyond chatbots)**
-- Scaling **RAG systems to production**
+- Scaling **Intelligent systems to production**
 - Exploring **AI + Cybersecurity intersection*
 
 ---
